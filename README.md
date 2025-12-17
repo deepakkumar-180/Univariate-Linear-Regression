@@ -41,18 +41,6 @@ print(y_pred)
 plt.scatter(x,y)
 plt.plot([min(x),max(x)],[min(y_pred),max(y_pred)],color="red")
 plt.show
-
-
-
-
-
-
-
-
-
-
-
-
 ```
 ## Output
 [Untitled6JupyterNotebook123.pdf](https://github.com/user-attachments/files/24217024/Untitled6JupyterNotebook123.pdf)
